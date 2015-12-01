@@ -1,9 +1,22 @@
-<html>
-<head>
-</head>
+---
+layout: default
+---
 
-<body>
-  <h1>Yes it works</h1>
-</body>
-</html>
+<section>
+	<ul>
 
+		{% for post in site.posts %}
+
+		<li>
+			<div class="post-date">
+				<span>{{ post.date | date: "%b %d, %Y" }}</span>
+			</div>
+			<div class="title">
+				<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+			</div>
+		</li>
+
+		{% endfor %}
+
+	</ul>
+</section>
