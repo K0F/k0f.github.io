@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A dream of unified world of human thought"
-date:   2015-12-01 12:51:27
+date:   2015-08-14 18:33:41
 categories: jekyll update
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Level of understanding versus compressing mess"
-date:   2015-12-01 12:51:27
+date:   2015-11-06 03:50:02
 categories: jekyll update
 ---
 

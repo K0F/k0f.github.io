@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "An ode to collapse"
-date:   2015-12-01 12:51:27
+date:   2015-11-02 17:38:33
 categories: jekyll update
 ---
 

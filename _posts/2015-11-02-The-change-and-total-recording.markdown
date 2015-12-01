@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The change and total recording"
-date:   2015-12-01 12:51:27
+date:   2015-11-02 07:47:34
 categories: jekyll update
 ---
 
