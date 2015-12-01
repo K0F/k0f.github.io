@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>/notes/welcome-to-jekyll</loc>
-    <lastmod>2015-12-01T13:51:27+01:00</lastmod>
-  </url>
-  <url>
-    <loc>/notes/test</loc>
-    <lastmod>2015-12-01T13:51:27+01:00</lastmod>
-  </url>
-  <url>
     <loc>/notes/another_another_another</loc>
     <lastmod>2015-12-01T13:51:27+01:00</lastmod>
   </url>
   <url>
-    <loc>/notes/another_another</loc>
+    <loc>/notes/The-change-and-total-recording</loc>
     <lastmod>2015-12-01T13:51:27+01:00</lastmod>
   </url>
   <url>
-    <loc>/notes/another</loc>
+    <loc>/notes/Level-of-understanding-versus-compressing-mess</loc>
+    <lastmod>2015-12-01T13:51:27+01:00</lastmod>
+  </url>
+  <url>
+    <loc>/notes/An-ode-to-collapse</loc>
     <lastmod>2015-12-01T13:51:27+01:00</lastmod>
   </url>
   <url>
