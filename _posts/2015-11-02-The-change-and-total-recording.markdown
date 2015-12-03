@@ -16,7 +16,5 @@ In the way, all organisms needs a constant flow of energy thought their bodies t
 
 There is nothing repeating at all, everything just flows by its complex paths and what we can is to observe it at maximum. This glorious victory of nature is all absorbing and any revolution of mind or any other matter cannot break the rules. We may split the atom and observe wild dance of energy released but we are unable to change rules how this will happen. There are islands of predictable matter in our CPUs able to behave deterministic, so we are probably able to calculate all its possible states to even distant future, but even such understanding of one laboratory don't break the laws.
 
-...more to write
-
-∞
+_...more to write_
 

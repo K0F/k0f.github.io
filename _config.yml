@@ -1,6 +1,6 @@
 # Site Info
-title:              "Kof's random thoughts"
-description:        "Repeating itself endlessly"
+title:              "Kof's random notes"
+description:        "Text as never--ending process, repeating itself endlessly"
 
 # Author Info
 author_name:        "Krystof Pesek"
@@ -14,10 +14,10 @@ timezone:           Europe/Prague # https://en.wikipedia.org/wiki/List_of_tz_dat
 
 # Site Build
 highlighter:        pygments
-markdown:           redcarpet
-redcarpet:
-    extensions:     ["smart","no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "highlight", "footnotes"]
-#markdown:           kramdown
+#markdown:           redcarpet
+#redcarpet:
+#    extensions:     ["smart","no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "highlight", "footnotes"]
+markdown:           kramdown
 kramdown:
     input:          GFM
 sass:
