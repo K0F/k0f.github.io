@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"Test post"
+date:	2020-12-17 20:04:32
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/DSC_0002.JPG)
