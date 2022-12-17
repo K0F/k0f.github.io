@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"Root"
+date:	2022-07-25 21:56:35
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/DSC_0107.JPG)
