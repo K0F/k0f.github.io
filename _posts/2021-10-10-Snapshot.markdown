@@ -1,6 +1,6 @@
 ---
 layout:	post
-title:	"Snapshot"
+title:	"Snapshot 2021-10-10"
 date:	2021-10-10 3
 categories:	kof archive
 ---

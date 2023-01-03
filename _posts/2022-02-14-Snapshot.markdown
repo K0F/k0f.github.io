@@ -1,6 +1,6 @@
 ---
 layout:	post
-title:	"Snapshot"
+title:	"Snapshot 2022-02-14"
 date:	2022-02-14 3
 categories:	kof archive
 ---
