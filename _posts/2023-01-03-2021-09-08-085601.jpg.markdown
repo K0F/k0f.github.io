@@ -1,8 +1,0 @@
----
-layout:	post
-title:	"2021-09-08-085601.jpg"
-date:	2021-09-08
-categories:	kof archive
----
-
-![Image Alt](https://k0f.github.io/assets//home/kof/Pictures/Webcam/2021-09-08-085601.jpg)
