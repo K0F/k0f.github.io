@@ -1,0 +1,8 @@
+	# gawk profile, created Tue Jan  3 18:31:06 2023
+
+	# Rule(s)
+
+     1  {
+     1  	$1 - $2 - $3
+	}
+

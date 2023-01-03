@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"Snapshot 2022-06-29"
+date:	2022-06-29 3
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/2022-06-29-134618.jpg)
