@@ -1,8 +1,0 @@
----
-layout:	post
-title:	"Snapshot 2021-12-10"
-date:	2021-12-10 3
-categories:	kof archive
----
-
-![Image Alt](https://k0f.github.io/assets/2021-12-10-091840.jpg)

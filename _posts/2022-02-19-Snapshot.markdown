@@ -1,8 +1,0 @@
----
-layout:	post
-title:	"Snapshot 2022-02-19"
-date:	2022-02-19 3
-categories:	kof archive
----
-
-![Image Alt](https://k0f.github.io/assets/2022-02-19-222041.jpg)
