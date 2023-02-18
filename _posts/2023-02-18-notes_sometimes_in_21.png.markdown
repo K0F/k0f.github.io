@@ -1,7 +1,7 @@
 ---
 layout:	post
 title:	"notes_sometimes_in_21.png"
-date:	2023-02-18 22:54:55.776114104 +0000 UTC
+date:	2023-02-18 22:58:44.196193165 +0000 UTC
 categories:	kof archive
 ---
 
