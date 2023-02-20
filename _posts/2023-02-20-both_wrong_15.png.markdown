@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"both_wrong_15.png"
+date:	2023-02-20 19:14:43.967880824 +0000 UTC
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/both_wrong_15.png)
