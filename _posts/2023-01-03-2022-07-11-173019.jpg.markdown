@@ -1,6 +1,6 @@
 ---
 layout:	post
-title:	"2022-07-11-173019.jpg"
+title:	"2022-07-11-173019"
 date:	2022-07-11
 categories:	kof archive
 ---

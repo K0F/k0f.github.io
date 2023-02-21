@@ -1,6 +1,6 @@
 ---
 layout:	post
-title:	"adresy_17.png"
+title:	"adresy_17"
 date:	2023-02-20 18:45:56.101083081 +0000 UTC
 categories:	kof archive
 ---

@@ -1,6 +1,6 @@
 ---
 layout:	post
-title:	"Image-0001.png"
+title:	"Image-0001"
 date:	2023-02-18 22:45:54.489850722 +0000 UTC
 categories:	kof archive
 ---

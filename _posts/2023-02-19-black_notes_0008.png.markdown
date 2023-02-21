@@ -1,6 +1,6 @@
 ---
 layout:	post
-title:	"black_notes_0008.png"
+title:	"black_notes_0008"
 date:	2023-02-19 01:10:34.30595191 +0000 UTC
 categories:	kof archive
 ---

@@ -1,6 +1,6 @@
 ---
 layout:	post
-title:	"vlna_skrz_ixka_19.png"
+title:	"vlna_skrz_ixka_19"
 date:	2023-02-20 18:41:21.806987944 +0000 UTC
 categories:	kof archive
 ---

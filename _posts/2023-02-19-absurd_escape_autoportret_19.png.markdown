@@ -1,6 +1,6 @@
 ---
 layout:	post
-title:	"absurd_escape_autoportret_19.png"
+title:	"absurd_escape_autoportret_19"
 date:	2023-02-19 00:11:39.145990489 +0000 UTC
 categories:	kof archive
 ---

@@ -1,6 +1,6 @@
 ---
 layout:	post
-title:	"PFHZ_0020.png"
+title:	"PFHZ_0020"
 date:	2023-02-18 23:56:02.286907367 +0000 UTC
 categories:	kof archive
 ---

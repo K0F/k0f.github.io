@@ -1,6 +1,6 @@
 ---
 layout:	post
-title:	"submindmap_20.png"
+title:	"submindmap_20"
 date:	2023-02-19 00:37:03.335768311 +0000 UTC
 categories:	kof archive
 ---

@@ -1,6 +1,6 @@
 ---
 layout:	post
-title:	"both_wrong_15.png"
+title:	"both_wrong_15"
 date:	2023-02-20 19:14:43.967880824 +0000 UTC
 categories:	kof archive
 ---

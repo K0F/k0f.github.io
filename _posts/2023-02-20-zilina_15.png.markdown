@@ -1,6 +1,6 @@
 ---
 layout:	post
-title:	"zilina_15.png"
+title:	"zilina_15"
 date:	2023-02-20 19:14:00.962454962 +0000 UTC
 categories:	kof archive
 ---

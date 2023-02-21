@@ -1,6 +1,6 @@
 ---
 layout:	post
-title:	"surface_tension_15.png"
+title:	"surface_tension_15"
 date:	2023-02-20 19:14:47.952031396 +0000 UTC
 categories:	kof archive
 ---

@@ -1,6 +1,6 @@
 ---
 layout:	post
-title:	"here_you_stand_23.png"
+title:	"here_you_stand_23"
 date:	2023-02-18 23:10:43.360368791 +0000 UTC
 categories:	kof archive
 ---
