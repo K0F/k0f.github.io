@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"exekuce_13"
+date:	2023-02-28 14:23:59.299621059 +0000 UTC
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/exekuce_13.png)
