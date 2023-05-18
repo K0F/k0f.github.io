@@ -1,6 +1,6 @@
 ---
 layout:	post
-title:	"Kips_won_wood_23.png"
+title:	"kips_graffiti_23.png"
 date:	2023-05-18
 categories:	kof archive
 ---
