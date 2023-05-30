@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"armatura_22.png"
+date:	30056-30-05
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/armatura_22.png)
