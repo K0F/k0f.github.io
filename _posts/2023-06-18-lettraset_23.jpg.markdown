@@ -1,8 +1,0 @@
----
-layout:	post
-title:	"lettraset_23.jpg"
-date:	2023-06-18
-categories:	kof archive
----
-
-![Image Alt](https://k0f.github.io/assets/lettraset_23.jpg)
