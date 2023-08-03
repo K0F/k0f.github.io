@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"vira_23.png"
+date:	2023-07-28
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/vira_23.png)
