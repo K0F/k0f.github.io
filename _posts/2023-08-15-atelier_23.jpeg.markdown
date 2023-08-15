@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"atelier_23.jpeg"
+date:	2023-08-15
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/atelier_23.jpeg)
