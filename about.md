@@ -9,6 +9,6 @@ All the posts which appears here with all changes to it were commited and logged
 
 Please do not hesitate to contact me krystof[dot]pesek[at]gmail[dot]com if you have any comment/idea/suggestion etc.
 
-All good!
+Mazel tov!
 
 [_--kof_](https://github.com/k0f)
