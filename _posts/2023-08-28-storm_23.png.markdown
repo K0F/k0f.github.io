@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"storm_23.png"
+date:	2023-08-28
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/storm_23.png)
