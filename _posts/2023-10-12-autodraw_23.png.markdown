@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"autodraw_23.png"
+date:	2023-10-12
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/autodraw_23.png)
