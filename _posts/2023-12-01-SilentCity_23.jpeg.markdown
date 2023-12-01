@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"SilentCity_23.jpeg"
+date:	2023-12-01
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/SilentCity_23.jpeg)
