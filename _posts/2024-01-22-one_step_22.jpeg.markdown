@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"one_step_22.jpeg"
+date:	2024-01-22
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/one_step_22.jpeg)
