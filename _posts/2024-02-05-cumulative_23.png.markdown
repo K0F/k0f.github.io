@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"cumulative_23.png"
+date:	2024-02-05
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/cumulative_23.png)
