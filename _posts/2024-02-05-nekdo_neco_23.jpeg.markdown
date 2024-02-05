@@ -1,8 +1,0 @@
----
-layout:	post
-title:	"nekdo_neco_23.jpeg"
-date:	2024-02-05
-categories:	kof archive
----
-
-![Image Alt](https://k0f.github.io/assets/nekdo_neco_23.jpeg)

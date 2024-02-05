@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"neco_09.jpeg"
+date:	2024-02-05
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/neco_09.jpeg)
