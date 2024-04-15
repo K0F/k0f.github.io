@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"zero.png"
+date:	2024-04-15
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/zero.png)
