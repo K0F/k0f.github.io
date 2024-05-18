@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"vajicko_24.jpeg"
+date:	2024-05-18
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/vajicko_24.jpeg)
