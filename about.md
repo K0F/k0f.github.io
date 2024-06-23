@@ -8,12 +8,16 @@ All the posts which appears here with all changes to it were commited and logged
 
 
 
-Please do not hesitate to contact me krystof[dot]pesek[at]gmail[dot]com if you have any comment/idea/suggestion etc.
 
-Any donations welcomed:
+Make 2€ donation:
 
 ![50czk](50czk.png "Donate")
 
-Do not wait for miracles, make them!
+Please do not hesitate to contact me [christoffon@gmail.com](mailto:krystof.pesek@gmail.com) if you have any comments/ideas/suggestions or questions.
+
+
+![license](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/CC_Zero_badge.svg/88px-CC_Zero_badge.svg.png "CC0 1.0")
+
+Do not wait for any miracles, just make them!
 
 [_--kof_](https://github.com/k0f)
