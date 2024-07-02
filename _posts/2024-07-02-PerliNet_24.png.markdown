@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"PerliNet_24.png"
+date:	2024-07-02
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/PerliNet_24.png)
