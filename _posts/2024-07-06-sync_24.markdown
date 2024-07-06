@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"sync_24"
+date:	2024-07-06
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/sync_24)
