@@ -1,8 +1,0 @@
----
-layout:	post
-title:	"The Moon"
-date:	2009-11-23 22:41:15
-categories:	kof archive
----
-
-![Image Alt](https://k0f.github.io/assets/20221217_220145_001.jpg)

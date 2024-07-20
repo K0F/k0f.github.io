@@ -1,8 +1,0 @@
----
-layout:	post
-title:	"hlava_13"
-date:	2023-03-01 18:47:58.805797829 +0000 UTC
-categories:	kof archive
----
-
-![Image Alt](https://k0f.github.io/assets/hlava_13.png)

@@ -1,8 +1,0 @@
----
-layout:	post
-title:	"R1-04922-0008"
-date:	2023-03-22 08:18:24.456667218 +0000 UTC
-categories:	kof archive
----
-
-![Image Alt](https://k0f.github.io/assets/R1-04922-0008.JPG)

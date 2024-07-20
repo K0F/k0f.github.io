@@ -1,8 +1,0 @@
----
-layout:	post
-title:	"romanov_18.png"
-date:	2024-02-27
-categories:	kof archive
----
-
-![Image Alt](https://k0f.github.io/assets/romanov_18.png)

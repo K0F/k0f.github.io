@@ -1,8 +1,0 @@
----
-layout:	post
-title:	"20230113_224353"
-date:	2023-01-13
-categories:	kof archive
----
-
-![Image Alt](https://k0f.github.io/assets/20230113_224353.jpg)

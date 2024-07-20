@@ -1,8 +1,0 @@
----
-layout:	post
-title:	"3D Chess"
-date:	2019-11-04 22:59:52
-categories:	kof archive
----
-
-![Image Alt](https://k0f.github.io/assets/20221217_225814.jpg)

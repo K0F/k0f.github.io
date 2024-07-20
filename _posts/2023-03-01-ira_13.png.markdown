@@ -1,8 +1,0 @@
----
-layout:	post
-title:	"ira_13"
-date:	2023-03-01 18:48:03.786252379 +0000 UTC
-categories:	kof archive
----
-
-![Image Alt](https://k0f.github.io/assets/ira_13.png)
