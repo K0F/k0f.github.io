@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"milos_plasy_95.png"
+date:	2024-06-24
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/milos_plasy_95.png)

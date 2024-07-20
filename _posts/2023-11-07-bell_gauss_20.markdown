@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"bell_gauss_20.png"
+date:	2023-11-07
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/bell_gauss_20.png)

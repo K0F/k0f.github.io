@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"circular_23.jpeg"
+date:	2023-08-18
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/circular_23.jpeg)

@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"retro_16.jpeg"
+date:	2023-08-26
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/retro_16.jpeg)

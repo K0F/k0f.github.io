@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"neuron_draw_23.jpeg"
+date:	2023-08-31
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/neuron_draw_23.jpeg)

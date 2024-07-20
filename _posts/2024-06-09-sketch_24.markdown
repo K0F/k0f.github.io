@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"sketch_24.png"
+date:	2024-06-09
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/sketch_24.png)

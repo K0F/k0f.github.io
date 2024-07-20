@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"obraz_a_zvuk_06_15"
+date:	2023-02-20 19:14:24.376425313 +0000 UTC
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/obraz_a_zvuk_06_15.png)

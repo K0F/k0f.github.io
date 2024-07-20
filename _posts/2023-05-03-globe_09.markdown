@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"globe_09"
+date:	2023-05-03 14:09:35.454558891 +0000 UTC
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/globe_09.png)

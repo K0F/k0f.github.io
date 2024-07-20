@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"7.07cm_24.png"
+date:	2024-07-15
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/7.07cm_24.png)

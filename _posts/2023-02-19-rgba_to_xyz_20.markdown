@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"RGBA_to_XYZ_20"
+date:	2023-02-19 00:11:57.743056508 +0000 UTC
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/RGBA_to_XYZ_20.png)

@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"10_circle_pure_24.png"
+date:	2024-07-05
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/10_circle_pure_24.png)

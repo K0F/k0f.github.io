@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"Scissors_23.png"
+date:	2023-06-12
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/Scissors_23.png)
