@@ -5,4 +5,4 @@ date:	2024-08-24
 categories:	kof archive
 ---
 
-![Image Alt](https://k0f.github.io/assets/הר_תבור_במבט_מדרום_מערב.jpg)
+![Image Alt](https://k0f.github.io/assets/tabor.jpg)
