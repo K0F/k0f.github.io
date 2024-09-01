@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"Moon_Halo_24.jpg"
+date:	2024-09-01
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/Moon_Halo_24.jpg)
