@@ -1,8 +1,8 @@
 ---
 layout:	post
-title:	"Dead_24"
+title:	"Chesus_24"
 date:	2024-09-04
 categories:	kof archive
 ---
 
-![Image Alt](https://k0f.github.io/assets/jesus_24.png)
+![Image Alt](https://k0f.github.io/assets/chesus_24.png)
