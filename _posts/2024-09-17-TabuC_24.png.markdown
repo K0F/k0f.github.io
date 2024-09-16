@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"TabuC_24.png"
+date:	2024-09-17
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/TabuC_24.png)
