@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"TabuA_24.png"
+date:	2024-09-16
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/TabuA_24.png)
