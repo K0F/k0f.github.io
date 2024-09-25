@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"Roosevelt_99.jpg"
+date:	2024-09-25
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/Roosevelt_99.jpg)
