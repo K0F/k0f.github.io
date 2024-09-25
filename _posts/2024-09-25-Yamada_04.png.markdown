@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"Yamada_04.png"
+date:	2024-09-25
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/Yamada_04.png)
