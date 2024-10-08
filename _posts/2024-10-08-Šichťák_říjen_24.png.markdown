@@ -1,8 +1,0 @@
----
-layout:	post
-title:	"Šichťák_říjen_24.png"
-date:	2024-10-08
-categories:	kof archive
----
-
-![Image Alt](https://k0f.github.io/assets/Šichťák_říjen_24.png)
