@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"1:1_24.png"
+date:	2024-10-08
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/1:1_24.png)
