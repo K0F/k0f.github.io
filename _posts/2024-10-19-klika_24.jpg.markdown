@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"klika_24.jpg"
+date:	2024-10-19
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/klika_24.jpg)
