@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"vojtech.png"
+date:	2024-10-19
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/vojtech.png)
