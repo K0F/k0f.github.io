@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"Ronna_24.png"
+date:	2024-11-09
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/Ronna_24.png)
