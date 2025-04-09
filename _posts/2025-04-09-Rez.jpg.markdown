@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"Rez.jpg"
+date:	2025-04-09
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/Rez.jpg)
