@@ -5,4 +5,4 @@ date:	2025-05-30
 categories:	kof archive
 ---
 
-![Image Alt](https://k0f.github.io/assets/Light and the key.jpeg)
+![Image Alt](https://k0f.github.io/assets/LightAndTheKey.jpeg)
