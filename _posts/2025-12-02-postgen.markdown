@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"postgen"
+date:	2025-12-02
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/postgen)
