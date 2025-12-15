@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"slogan.jpg"
+date:	2025-12-15
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/slogan.jpg)
