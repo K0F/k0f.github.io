@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"beware.jpg"
+date:	2026-01-28
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/beware.jpg)
