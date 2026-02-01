@@ -1,8 +1,0 @@
----
-layout:	post
-title:	"export"
-date:	2026-02-01
-categories:	kof archive
----
-
-![Image Alt](https://k0f.github.io/assets/export)
