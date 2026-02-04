@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"cech.png"
+date:	2026-02-04
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/cech.png)
