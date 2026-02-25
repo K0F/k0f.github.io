@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"hilbertMod.gif"
+date:	2026-02-25
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/hilbertMod.gif)
