@@ -12,9 +12,9 @@ If not stated explicitly otherwise all my works are licensed as CC0 1.0 (Public 
 
 
 
-Make 50¢ donation:
+Make 50 Kč (€2) donation:
 
-![12.5czk](50czk.png "Help!")
+![50 Kč](50czk.png "Donate!")
 
 Please do not hesitate to contact me [krystof.pesek@gmail.com](mailto:krystof.pesek@gmail.com) if you have any comments/ideas/suggestions or questions.
 
