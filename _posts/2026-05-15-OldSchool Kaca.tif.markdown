@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"OldSchool Kaca.tif"
+date:	2026-05-15
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/OldSchool Kaca.tif)
