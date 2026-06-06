@@ -1,5 +1,5 @@
 ---
-title: About the author
+title: Kof
 ---
 
 My name is Kryštof Pešek, if not stated explicitly otherwise all my works presented here are licensed as
