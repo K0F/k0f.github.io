@@ -2,9 +2,9 @@
 title: About the author
 ---
 
-My name is Kryštof Pešek, if not stated explicitly otherwise all my works presented here are licensed as CC0.
+My name is Kryštof Pešek, if not stated explicitly otherwise all my works presented here are licensed as
 
-![license](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/CC_Zero_badge.svg/88px-CC_Zero_badge.svg.png "CC0 1.0")
+![CC0](cc0.png "CC0")
 
 Buy me a beer 25 Kč (€1):
 
