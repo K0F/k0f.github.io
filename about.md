@@ -8,7 +8,7 @@ My name is Kryštof Pešek, if not stated explicitly otherwise all my works pres
 
 Buy me a beer 25 Kč (€1):
 
-![25 Kč](1E_crisp.png "Donate beer!")
+![♥](1E_crisp.png "Donate beer!")
 
 Do not wait for any miracles, just co-make them!
 
