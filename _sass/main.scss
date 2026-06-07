@@ -1,5 +1,9 @@
+html {
+  font-size: 11px;
+}
 body {
-  font-family: Terminus, Times, Georgia, Palatino, serif, 'Fira Sans', sans-serif;
+  font-family: Terminus, Consolas, monospace, x;
+  // Times, Georgia, Palatino, serif, 'Fira Sans', sans-serif;
   text-align: justify;
   padding: 20px;
   margin: 0;
@@ -85,7 +89,7 @@ span[data-note] {
   -webkit-transition-timing-function: ease;
   transform: translateY( calc( 100% + 8px ) );
   -webkit-transform: translateY( calc( 100% + 8px ) );
-  font-size: 14px;
+  font-size: 8px;
   line-height: 1.7em;
   &.shown {
     transform: translateY( 0 );
@@ -187,7 +191,7 @@ iframe {
 }
 ul,
 ol {
-  margin: 40px 0;
+  margin: 8px 0;
   padding-left: 50px;
   li {
     word-wrap: break-word;
@@ -208,13 +212,13 @@ time {
 }
 code,
 pre {
-  font-family: Consolas, monospace, x;
+  font-family: Terminus, Consolas, monospace, x;
 }
 code {
   color: #f14e32;
   background: #eee;
   padding: 2px 6px;
-  font-size: 13px;
+  font-size: 8px;
 }
 pre {
   display: block;

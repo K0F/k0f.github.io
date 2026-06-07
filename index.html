@@ -12,7 +12,8 @@ layout: default
 				<span>{{ post.date | date: "%b %d, %Y" }}</span>
 			</div>
 			<div class="title">
-				<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+				{% assign titulek = post.title | split: "." | first %}
+				<a href="{{ post.url | relative_url }}">{{ titulek }}</a>
 			</div>
 		</li>
 

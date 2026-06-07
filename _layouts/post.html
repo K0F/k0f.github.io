@@ -2,29 +2,67 @@
 layout: default
 ---
 
-<noscript>
-	<style>
+<style>
 
-		article .footnotes {
-			display: block;
-		}
+article {
+  position: relative;
+  max-width: 750px;
+  margin: 0 auto;
+}
 
-	</style>
-</noscript>
+.side-nav {
+  position: absolute;
+  top: 50%;
+  font-size: 3rem;
+  font-weight: bold;
+  color: #777;
+  text-decoration: none;
+  transition: color 0.1s ease, transform 0.2s ease;
+  line-height: 1;
+}
+
+.side-nav:hover {
+  color: #111;
+  transform: scale(1.05);
+}
+
+.prev-btn {
+  left: -40px;
+}
+
+.next-btn {
+  right: -40px;
+}
+
+@media (max-width: 950px) {
+  .prev-btn { left: 20px; }
+  .next-btn { right: 20px; }
+  .side-nav { position: fixed; top: 90%; font-size: 3rem; }
+}
+</style>
 
 <article>
+  <div class="center">
+  {% assign title_string = page.title | string %}
+  {% assign filename = title_string | split: "." | first %}
+  <h1>{{ filename }}</h1>
+  <time>{{ page.date | date: '%B %-d, %Y' }}</time>
+</div>
 
-	<div class="center">
-		<h1>{{ page.title }}</h1>
-		<time>{{ page.date | date: '%B %-d, %Y' }}</time>
-	</div>
+  <div class="divider"></div>
 
-	<div class="divider"></div>
+  {% if page.previous and page.previous.url != page.url %}
+  <a href="{{ page.previous.url }}" class="side-nav prev-btn" title="{{ page.previous.title }}">&lt;</a>
+  {% endif %}
 
-	{{ content }}
+  {% if page.next and page.next.url != page.url %}
+  <a href="{{ page.next.url }}" class="side-nav next-btn" title="{{ page.next.title }}">&gt;</a>
+  {% endif %}
+
+  {{ content }}
 
 </article>
 
 <div class="back">
-        <a href="{{site.baseurl}}/">Back</a>
+  <a href="{{site.baseurl}}/">Back</a>
 </div>

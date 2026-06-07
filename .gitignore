@@ -1,0 +1,17 @@
+# Jekyll build output
+_site/
+.jekyll-metadata
+.jekyll-cache/
+
+# Bundler and Gem dependencies
+.bundle/
+vendor/
+Gemfile.lock
+
+# Local environment configuration
+.env
+.env.*
+
+# Operating System files
+.DS_Store
+Thumbs.db
