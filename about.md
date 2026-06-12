@@ -9,4 +9,4 @@ My name is Kryštof Pešek, if not stated explicitly otherwise all my works pres
 
 Do not wait for any miracles, just do something...
 
-[_--kof_](https://github.com/k0f)
+[_--kof_](https://mamot.fr/@kof)
