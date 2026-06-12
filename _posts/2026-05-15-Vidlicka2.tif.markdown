@@ -5,4 +5,4 @@ date:	2026-05-15
 categories:	kof archive
 ---
 
-![Image Alt](https://k0f.github.io/assets/Vidlicka2.tif)
+![Image Alt](https://k0f.github.io/assets/Vidlicka2.jpg)
