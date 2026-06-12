@@ -5,4 +5,4 @@ date:	2025-12-09
 categories:	kof archive
 ---
 
-![Image Alt](https://k0f.github.io/assets/krystof obrazky 017.jpg)
+![Image Alt](https://k0f.github.io/assets/krystof_obrazky_017.jpg)
