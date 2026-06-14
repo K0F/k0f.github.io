@@ -1,0 +1,8 @@
+---
+layout: post
+title: "1024_gold"
+date: 2026-06-14
+categories: kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/1024_gold.png)
