@@ -1,0 +1,8 @@
+---
+layout: post
+title: "IMG_20251003_160806"
+date: 2026-07-17
+categories: kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/IMG_20251003_160806.jpg)
