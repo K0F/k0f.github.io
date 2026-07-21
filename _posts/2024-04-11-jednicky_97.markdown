@@ -1,8 +1,0 @@
----
-layout:	post
-title:	"jednicky_97.png"
-date:	2024-04-11
-categories:	kof archive
----
-
-![Image Alt](https://k0f.github.io/assets/jednicky_97.png)

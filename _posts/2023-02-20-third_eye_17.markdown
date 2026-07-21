@@ -1,8 +1,0 @@
----
-layout:	post
-title:	"third_eye_17"
-date:	2023-02-20 19:15:35.217398207 +0000 UTC
-categories:	kof archive
----
-
-![Image Alt](https://k0f.github.io/assets/third_eye_17.png)

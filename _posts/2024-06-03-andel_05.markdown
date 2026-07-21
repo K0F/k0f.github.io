@@ -1,8 +1,0 @@
----
-layout:	post
-title:	"andel_05.png"
-date:	2024-06-03
-categories:	kof archive
----
-
-![Image Alt](https://k0f.github.io/assets/andel_05.png)

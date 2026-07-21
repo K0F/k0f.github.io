@@ -1,8 +1,0 @@
----
-layout:	post
-title:	"sigmoids_09"
-date:	2023-05-03 14:07:50.060433586 +0000 UTC
-categories:	kof archive
----
-
-![Image Alt](https://k0f.github.io/assets/sigmoids_09.png)

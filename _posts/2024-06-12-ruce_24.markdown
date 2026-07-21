@@ -1,8 +1,0 @@
----
-layout:	post
-title:	"ruce_24.png"
-date:	2024-06-12
-categories:	kof archive
----
-
-![Image Alt](https://k0f.github.io/assets/ruce_24.png)

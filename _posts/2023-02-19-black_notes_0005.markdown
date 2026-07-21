@@ -1,8 +1,0 @@
----
-layout:	post
-title:	"black_notes_0005"
-date:	2023-02-19 01:10:22.887477819 +0000 UTC
-categories:	kof archive
----
-
-![Image Alt](https://k0f.github.io/assets/black_notes_0005.png)

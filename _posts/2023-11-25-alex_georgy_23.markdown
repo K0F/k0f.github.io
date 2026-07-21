@@ -1,8 +1,0 @@
----
-layout:	post
-title:	"Alex_Georgy_23.jpeg"
-date:	2023-11-25
-categories:	kof archive
----
-
-![Image Alt](https://k0f.github.io/assets/Alex_Georgy_23.jpeg)

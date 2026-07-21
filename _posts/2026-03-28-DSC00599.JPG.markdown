@@ -1,8 +1,0 @@
----
-layout:	post
-title:	"DSC00599.JPG"
-date:	2026-03-28
-categories:	kof archive
----
-
-![Image Alt](https://k0f.github.io/assets/DSC00599.JPG)

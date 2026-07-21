@@ -1,8 +1,0 @@
----
-layout:	post
-title:	"palach_23"
-date:	2023-03-06 17:15:02.519145622 +0000 UTC
-categories:	kof archive
----
-
-![Image Alt](https://k0f.github.io/assets/palach_23.png)

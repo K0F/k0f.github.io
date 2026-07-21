@@ -1,8 +1,0 @@
----
-layout:	post
-title:	"baloons_09.png"
-date:	2023-08-14
-categories:	kof archive
----
-
-![Image Alt](https://k0f.github.io/assets/baloons_09.png)
