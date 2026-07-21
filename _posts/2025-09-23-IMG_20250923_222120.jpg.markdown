@@ -1,0 +1,8 @@
+---
+layout: post
+title: "IMG_20250923_222120"
+date: 2025-09-23
+categories: kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/IMG_20250923_222120.jpg)

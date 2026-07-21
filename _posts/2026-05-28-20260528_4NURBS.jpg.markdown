@@ -1,7 +1,7 @@
 ---
 layout:	post
 title:	"20260528_4NURBS.jpg"
-date:	2026-05-28
+date: 2026-05-28
 categories:	kof archive
 ---
 

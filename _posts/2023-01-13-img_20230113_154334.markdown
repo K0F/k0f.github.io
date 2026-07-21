@@ -1,7 +1,7 @@
 ---
 layout:	post
 title:	"IMG_20230113_154334.jpg"
-date:	2023-01-13
+date: 2023-01-13
 categories:	kof archive
 ---
 

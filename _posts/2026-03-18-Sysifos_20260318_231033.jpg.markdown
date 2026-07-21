@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"Sysifos_20260318_231033.jpg"
+date: 2026-03-18
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/Sysifos_20260318_231033.jpg)

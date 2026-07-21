@@ -1,7 +1,7 @@
 ---
 layout:	post
 title:	"20241027_175321.jpg"
-date:	2024-10-27
+date: 2024-10-27
 categories:	kof archive
 ---
 

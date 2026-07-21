@@ -1,7 +1,7 @@
 ---
 layout:	post
 title:	"2025-07-08_00-29.png"
-date:	2025-07-08
+date: 2025-07-08
 categories:	kof archive
 ---
 

@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"R1-04922-0002"
+date: 4922-00-02
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/R1-04922-0002.JPG)

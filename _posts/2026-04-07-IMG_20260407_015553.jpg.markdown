@@ -1,7 +1,7 @@
 ---
 layout:	post
 title:	"IMG_20260407_015553.jpg"
-date:	2026-04-07
+date: 2026-04-07
 categories:	kof archive
 ---
 
