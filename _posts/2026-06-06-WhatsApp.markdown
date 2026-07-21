@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"Chesus_24"
+date: 2026-06-06
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/chesus_24.png)

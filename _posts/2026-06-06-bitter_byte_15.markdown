@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"bitter_byte_15"
+date: 2026-06-06
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/bitter_byte_15.png)

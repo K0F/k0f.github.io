@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"OperatorOmikron_24.png"
+date: 2026-06-06
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/OperatorOmikron_24.png)

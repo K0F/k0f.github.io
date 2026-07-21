@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"10cm_24.jpeg"
+date: 2026-06-06
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/10cm_24.jpeg)

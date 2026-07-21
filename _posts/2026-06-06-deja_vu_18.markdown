@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"deja_vu_18"
+date: 2026-06-06
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/deja_vu_18.png)

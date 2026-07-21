@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"black_notes_0008"
+date: 2026-06-06
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/black_notes_0008.png)

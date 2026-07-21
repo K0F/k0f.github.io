@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"PetrHof2.tif"
+date: 2026-07-01
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/PetrHof2.tif)

@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"Vidlicka2.tif"
+date: 2026-07-01
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/Vidlicka2.tif)

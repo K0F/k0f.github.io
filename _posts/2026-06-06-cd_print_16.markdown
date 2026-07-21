@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"CD_print_16"
+date: 2026-06-06
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/CD_print_16.png)
