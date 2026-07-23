@@ -1,0 +1,8 @@
+---
+layout: post
+title: "IMAG0054"
+date: 2026-07-23
+categories: kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/IMAG0054.JPG)
