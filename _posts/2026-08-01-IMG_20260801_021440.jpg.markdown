@@ -1,0 +1,8 @@
+---
+layout: post
+title: "IMG_20260801_021440"
+date: 2026-08-01
+categories: kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/IMG_20260801_021440.jpg)
