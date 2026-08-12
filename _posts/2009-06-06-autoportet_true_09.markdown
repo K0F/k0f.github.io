@@ -1,0 +1,8 @@
+---
+layout:	post
+title:	"autoportet_true_09.png"
+date: 2009-06-06
+categories:	kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/autoportet_true_09.png)
