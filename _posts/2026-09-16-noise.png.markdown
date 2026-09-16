@@ -1,0 +1,8 @@
+---
+layout: post
+title: "noise"
+date: 2026-09-16
+categories: kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/noise.png)
