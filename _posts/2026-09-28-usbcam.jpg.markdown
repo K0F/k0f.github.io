@@ -1,0 +1,8 @@
+---
+layout: post
+title: "usbcam"
+date: 2026-09-28
+categories: kof archive
+---
+
+![Image Alt](https://k0f.github.io/assets/usbcam.jpg)
